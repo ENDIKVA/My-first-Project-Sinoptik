@@ -1,4 +1,4 @@
-import { getInitialCity } from './citySearch';
+import { getInitialCity } from './citySearch.js';
 export function pokazaniapogodu(  timeoutId , datalist , pokazatelDiv , input,  cells , BoxsinoptikaDiv){
 const getLoaderHtml = (text = 'Загрузка погоды...') => `
     <div class="loader-container">
