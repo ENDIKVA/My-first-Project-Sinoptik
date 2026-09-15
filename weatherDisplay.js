@@ -1,4 +1,4 @@
-import { getInitialCity } from './poiskgoroda.js';
+import { getInitialCity } from './citySearch';
 export function pokazaniapogodu(  timeoutId , datalist , pokazatelDiv , input,  cells , BoxsinoptikaDiv){
 const getLoaderHtml = (text = 'Загрузка погоды...') => `
     <div class="loader-container">
