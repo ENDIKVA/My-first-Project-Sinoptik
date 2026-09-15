@@ -1,6 +1,6 @@
 import{ firstentered} from './firstenteredbyuser.js'
-import { poiskgoroda } from './poiskgoroda.js';
-import { pokazaniapogodu } from './pokazaniapogodu.js'
+import { poiskgoroda } from './citySearch.js';
+import { pokazaniapogodu } from './weatherDisplay.js'
 import {days7} from './7days.js';
 const input = document.getElementById('city-input');
 const datalist = document.getElementById('city-options');
