@@ -1,4 +1,4 @@
-# 🌤️ Synoptik — Weather Forecast Application
+# 🌤️ Synoptik - Weather Forecast Application
 
 Интерактивное веб-приложение для просмотра текущей погоды и прогноза на 7 дней в любой точке мира. Проект разработан с акцентом на современный асинхронный JavaScript (ES6+), чистый код без сторонних тяжелых библиотек и адаптивный пользовательский интерфейс.
 
@@ -21,8 +21,8 @@
 * **JavaScript (ES6 Modules):** `async / await`, Promises, Fetch API, DOM Manipulation, LocalStorage, Event Loop.
 * **HTML5 & CSS3:** Flexbox, Grid, CSS Variables, Media Queries (`@media`), SVG animations.
 * **External APIs:**
-  * [Open-Meteo Geocoding API](https://open-meteo.com/en/docs/geocoding-api) — автодополнение и геокодинг городов.
-  * [Open-Meteo Forecast API](https://open-meteo.com/en/docs) — точный прогноз погоды без использования API-ключей.
+  * [Open-Meteo Geocoding API](https://open-meteo.com/en/docs/geocoding-api) - автодополнение и геокодинг городов.
+  * [Open-Meteo Forecast API](https://open-meteo.com/en/docs) - точный прогноз погоды без использования API-ключей.
 ---
 
 ## 📂 Архитектура проекта
